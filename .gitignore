@@ -1,0 +1,13 @@
+gradle
+.gradle
+.build
+*.iml
+*.kts
+gradlew
+*.bat
+*.xml
+*.class
+*.bin
+.idea
+*.MF
+*.jar
