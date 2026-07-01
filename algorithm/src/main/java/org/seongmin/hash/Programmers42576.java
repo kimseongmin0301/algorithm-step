@@ -1,4 +1,4 @@
-package org.seongmin;
+package org.seongmin.hash;
 
 import java.util.HashMap;
 import java.util.Map;

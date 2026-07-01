@@ -1,7 +1,4 @@
-package org.seongmin;
-
-import java.util.HashSet;
-import java.util.Set;
+package org.seongmin.hash;
 
 /**
  *
